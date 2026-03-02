@@ -1,0 +1,6 @@
+[project]
+name = "mellow-steel-theme"
+version = "0.1.0"
+description = "Monorepo for VScode theme Mellow Steel for developers."
+readme = "README.md"
+authors = [{ name = "Olov Rudberg <olov.rudberg@gmail.com>" }]

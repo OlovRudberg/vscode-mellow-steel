@@ -1,0 +1,40 @@
+{
+  "name": "mellow-steel-theme",
+  "displayName": "Mellow Steel Theme",
+  "description": "A sleek, steel-colored theme with a rich and vibrant syntax highlighting palette.",
+  "version": "1.0.0",
+  "author": "Olov Rudberg <olov.rudberg@gmail.com>",
+  "publisher": "OlovRudberg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlovRudberg/mellow-steel-theme"
+  },
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Steel",
+    "Light Theme",
+    "TextMate",
+    "Theme",
+    "Dev",
+    "Colorful",
+    "Mellow",
+    "Python",
+    "Bash",
+    "Yaml",
+    "Makefile"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mellow Steel Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Mellow Steel Theme-color-theme.json"
+      }
+    ]
+  }
+}
