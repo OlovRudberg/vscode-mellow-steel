@@ -1,10 +1,10 @@
 # Mellow Steel Theme
 
-A sophisticated, metallic-inspired interface designed for clarity, focus, and visual longevity.
+A metallic-inspired interface designed for clarity, focus, and visual longevity.
 
 ---
 
-**Mellow Steel** is a sleek, high-contrast dark theme meticulously crafted for the modern developer. While it excels across all environments, it is **specifically optimized for Python developers**, offering a refined syntax palette that makes decorators, dunder methods, and complex logic stand out against a calm, steel-gray backdrop.
+**Mellow Steel** is a sleek, high-contrast dark theme crafted for the modern developer. While it stretches across all environments, it is **specifically optimized for Python developers**, offering a refined syntax palette that makes decorators, dunder methods, and complex logic stand out against a calm, steel-gray backdrop.
 
 Reduce eye strain and maintain your flow with a workspace that feels like a precision-engineered instrument.
 
@@ -44,16 +44,16 @@ To get the full experience and the intended "Mellow Steel" feel, we recommend ad
 }
 ```
 
-### Light Steel Theme
+## Screenshots
 
-**Python**
+### Light Steel Python
+
 ![Python](images/python.png)
 
-**Yaml**
+### Light Steel Yaml
+
 ![yaml](images/yaml.png)
 
-**Bash**
-![bash](images/bash.png)
+### Light Steel Bash
 
-**Json**
-![json](images/json.png)
+![bash](images/bash.png)
