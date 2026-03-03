@@ -7,7 +7,7 @@
   "publisher": "OlovRudberg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OlovRudberg/mellow-steel-theme"
+    "url": "https://github.com/OlovRudberg/vscode-mellow-steel"
   },
   "engines": {
     "vscode": "^1.109.0"

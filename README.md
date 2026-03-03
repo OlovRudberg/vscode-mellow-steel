@@ -42,3 +42,18 @@ To get the full experience and the intended "Mellow Steel" feel, we recommend ad
     "editor.inlineSuggest.enabled": false,
     "editor.semanticHighlighting.enabled": false
 }
+```
+
+### Light Steel Theme
+
+**Python**
+![Python](images/python.png)
+
+**Yaml**
+![yaml](images/yaml.png)
+
+**Bash**
+![bash](images/bash.png)
+
+**Json**
+![json](images/json.png)
