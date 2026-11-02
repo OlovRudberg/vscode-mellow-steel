@@ -4,6 +4,13 @@ All notable changes to the "mellow-steel-theme" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - Robust settings
+
+- Added colors to prevent underlaying theme changes to not matter
+- The purpose for this change is that a vscode update messed with
+some of the coloring, and by adding colors to all settings, this theme
+is not reliant on underlaying changes in vscode.
+
 
 ## [1.1.0] - Color additions
 
